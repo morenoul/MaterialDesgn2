@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesgn2</string>
+    <string name="content_description_media">hola que tal</string>
+    <string name="title">Titulo</string>
+    <string name="secondary_text">texto secundario</string>
+    <string name="supporting_text">no se que es esto</string>
+    <string name="action_1">comprar</string>
+    <string name="action_2">vender</string>
+</resources>
